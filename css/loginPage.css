@@ -223,6 +223,17 @@ button:hover{
     color:rgb(131, 131, 131);
 }
 
-
-
-
+.popMessage {
+    font-family: "Bebas Neue", sans-serif;
+    background-color: #ffe6e6;
+    color: #a22323;
+    border: 1px solid #cc0000;
+    padding: 2px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    width: 300px;
+    font-size: 15px;
+}
